@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Alp</h1>
 <h3 align="center">.NET Developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alphiletti&label=Profile%20views&color=0e75b6&style=flat" alt="alphiletti" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alphiletti&label=Profile%20views&color=0e75b6&style=flat" alt="alphiletti" /> </p>
 
 - 🔭 I’m currently working on **ASL Object Detection**
 
