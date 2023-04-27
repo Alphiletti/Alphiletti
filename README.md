@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **ASL Object Detection**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **aeren53.ae@gmail.com**
 
